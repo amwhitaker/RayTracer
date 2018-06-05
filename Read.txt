@@ -1,0 +1,9 @@
+To run:
+
+Compile all files 
+
+javac *.java
+
+Run
+
+java Main
